@@ -1,8 +1,15 @@
-![image](https://github.com/user-attachments/assets/e8eb9b3f-7be8-4a9c-b198-f351e2a5f7ca)
+https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=नमस्ते%2C+I'm+Anmol+%F0%9F%91%8B">
+</p>
+<!--  <hr>
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"> -->
+<!-- Retro PC GIF  -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
 
-
-# 💫 About Me:
+<h2>💫 About Me</h2>
 👋 I'm Anmol Kumar Singh<br>🔭 I’m Currently Pursuing B.Tech in CSE<br>🌱 I’m Currently Studying React Js<br>🤝 I’m Looking To Collaborate On Web Projects    <br>💬 Ask me about Html, Css, JS, Sql, C, mongoDb, PowerBI, Python, Django  <br>📧 Reach Me: anmolkumaarsiingh@gmail.com
 ![image](https://github.com/user-attachments/assets/2d52bba0-997f-4127-a7cc-5ce470a4da9a)
 
