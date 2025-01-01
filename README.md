@@ -12,7 +12,6 @@
 
 <h2>💫 About Me</h2>
 👋 I'm Anmol Kumar Singh<br>🔭 I’m Currently Pursuing B.Tech in CSE<br>🌱 I’m Currently Studying React Js<br>🤝 I’m Looking To Collaborate On Web Projects    <br>💬 Ask me about Html, Css, JS, Sql, C, mongoDb, PowerBI, Python, Django  <br>📧 Reach Me: anmolkumaarsiingh@gmail.com
-![image](https://github.com/user-attachments/assets/2d52bba0-997f-4127-a7cc-5ce470a4da9a)
 
 
 
