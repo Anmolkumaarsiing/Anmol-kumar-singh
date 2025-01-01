@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/c4fb65d0-85af-41bf-9f5a-4330eb082e71)
-![image](https://github.com/user-attachments/assets/624e743e-ac19-4f5a-80d5-f03f978e43af)
+![image](https://github.com/user-attachments/assets/e8eb9b3f-7be8-4a9c-b198-f351e2a5f7ca)
+
 
 
 # 💫 About Me:
